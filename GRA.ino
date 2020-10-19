@@ -369,7 +369,7 @@ void loop()
    lcd.write(5);
    lcd.write(" ");
 
-   
+   /* tu podmienić żeby były przerwania!
    i--;
    if(i<1)
    {
@@ -396,7 +396,7 @@ void loop()
     t=0.8*t;
     count=1;
    }
-
+*/
   
  // czas=pulseIn(echo,HIGH);
 //  dystans=czas/5800.00;
